@@ -10,3 +10,5 @@ X Training Data - data used for training machine learning algorithim (all charac
 Y training data - data used for training machine learning algorithim (all cell identities) - please refer to cell identity key
 
 Cell Identity Key - Designation for each cell type
+
+Costar insert for 60mm dishes - STL file for insert to mount inverted costar ALI to 60mm dish
