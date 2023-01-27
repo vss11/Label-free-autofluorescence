@@ -1,5 +1,5 @@
 # Label-free-autofluorescence
-Files for "Label free autofluorescence imaging permits comprehensive and simultaneous assignment of cell type identity and reveals the existence of airway secretory cell associated antigen passages (SAPs)"
+Files for "Autofluorescence imaging permits label free cell type assignment in unmodified airway and reveals the dynamic formation of airway secretory cell associated antigen passages (SAPs)."
 
 Appendix 1 - Image flattening matlab script - Matlab script used to flatten tracheal surface for analysis using SHG
 
